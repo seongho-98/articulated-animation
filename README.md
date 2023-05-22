@@ -1,4 +1,4 @@
-#졸업 논문에 사용을 위한 articulated-animation 논문의 프로젝트입니다.
+# 졸업 논문에 사용을 위한 articulated-animation 논문의 프로젝트입니다.
 
 ---
 # Motion Representations for Articulated Animation
